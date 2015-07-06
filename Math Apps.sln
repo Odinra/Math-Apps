@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KING_2D3DMOTION", "..\..\..\..\..\Desktop\TSTC\fall 12\Fall 2012\Fall 2012\Math Apps\Math Apps\KING_2D3DMOTION\KING_2D3DMOTION.vcxproj", "{3994CD8F-66C0-4534-85DE-DE9E268EC81A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2D3DMOTION", "2D3DMOTION\2D3DMOTION.vcxproj", "{18D55C6C-47A6-4950-AEDD-3C175C2D11CF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "King_LinesLab", "..\..\..\..\..\Desktop\TSTC\fall 12\Fall 2012\Fall 2012\Math Apps\Math Apps\King_LinesLab\King_LinesLab.vcxproj", "{35E8E36E-77A4-4A0F-9F81-48E437E8EDE0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinesLab", "Project1\Project1.vcxproj", "{5286F308-4BF5-4191-A912-9797FE548982}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KING_Matrix", "..\..\..\..\..\Desktop\TSTC\fall 12\Fall 2012\Fall 2012\Math Apps\Math Apps\KING_Matrix\KING_Matrix\KING_Matrix.vcxproj", "{5EC66003-E83D-4313-B42A-2379EC2B33DD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{2506E6DF-C47C-4E6D-AA55-CDEF7E71235F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KING_Trigonometry", "..\..\..\..\..\Desktop\TSTC\fall 12\Fall 2012\Fall 2012\Math Apps\Math Apps\KING_Trigonometry\KING_Trigonometry\KING_Trigonometry\KING_Trigonometry.vcxproj", "{519AC5BC-49A5-4475-B9EF-5115A2EE2F3B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trigonometry", "Trigonometry\Trigonometry.vcxproj", "{169BFC4C-72B1-4659-9B84-D1A5FE7DAC62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +17,22 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3994CD8F-66C0-4534-85DE-DE9E268EC81A}.Debug|x86.ActiveCfg = Debug|Win32
-		{3994CD8F-66C0-4534-85DE-DE9E268EC81A}.Debug|x86.Build.0 = Debug|Win32
-		{3994CD8F-66C0-4534-85DE-DE9E268EC81A}.Release|x86.ActiveCfg = Release|Win32
-		{3994CD8F-66C0-4534-85DE-DE9E268EC81A}.Release|x86.Build.0 = Release|Win32
-		{35E8E36E-77A4-4A0F-9F81-48E437E8EDE0}.Debug|x86.ActiveCfg = Debug|Win32
-		{35E8E36E-77A4-4A0F-9F81-48E437E8EDE0}.Debug|x86.Build.0 = Debug|Win32
-		{35E8E36E-77A4-4A0F-9F81-48E437E8EDE0}.Release|x86.ActiveCfg = Release|Win32
-		{35E8E36E-77A4-4A0F-9F81-48E437E8EDE0}.Release|x86.Build.0 = Release|Win32
-		{5EC66003-E83D-4313-B42A-2379EC2B33DD}.Debug|x86.ActiveCfg = Debug|Win32
-		{5EC66003-E83D-4313-B42A-2379EC2B33DD}.Debug|x86.Build.0 = Debug|Win32
-		{5EC66003-E83D-4313-B42A-2379EC2B33DD}.Release|x86.ActiveCfg = Release|Win32
-		{5EC66003-E83D-4313-B42A-2379EC2B33DD}.Release|x86.Build.0 = Release|Win32
-		{519AC5BC-49A5-4475-B9EF-5115A2EE2F3B}.Debug|x86.ActiveCfg = Debug|Win32
-		{519AC5BC-49A5-4475-B9EF-5115A2EE2F3B}.Debug|x86.Build.0 = Debug|Win32
-		{519AC5BC-49A5-4475-B9EF-5115A2EE2F3B}.Release|x86.ActiveCfg = Release|Win32
-		{519AC5BC-49A5-4475-B9EF-5115A2EE2F3B}.Release|x86.Build.0 = Release|Win32
+		{18D55C6C-47A6-4950-AEDD-3C175C2D11CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{18D55C6C-47A6-4950-AEDD-3C175C2D11CF}.Debug|x86.Build.0 = Debug|Win32
+		{18D55C6C-47A6-4950-AEDD-3C175C2D11CF}.Release|x86.ActiveCfg = Release|Win32
+		{18D55C6C-47A6-4950-AEDD-3C175C2D11CF}.Release|x86.Build.0 = Release|Win32
+		{5286F308-4BF5-4191-A912-9797FE548982}.Debug|x86.ActiveCfg = Debug|Win32
+		{5286F308-4BF5-4191-A912-9797FE548982}.Debug|x86.Build.0 = Debug|Win32
+		{5286F308-4BF5-4191-A912-9797FE548982}.Release|x86.ActiveCfg = Release|Win32
+		{5286F308-4BF5-4191-A912-9797FE548982}.Release|x86.Build.0 = Release|Win32
+		{2506E6DF-C47C-4E6D-AA55-CDEF7E71235F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2506E6DF-C47C-4E6D-AA55-CDEF7E71235F}.Debug|x86.Build.0 = Debug|Win32
+		{2506E6DF-C47C-4E6D-AA55-CDEF7E71235F}.Release|x86.ActiveCfg = Release|Win32
+		{2506E6DF-C47C-4E6D-AA55-CDEF7E71235F}.Release|x86.Build.0 = Release|Win32
+		{169BFC4C-72B1-4659-9B84-D1A5FE7DAC62}.Debug|x86.ActiveCfg = Debug|Win32
+		{169BFC4C-72B1-4659-9B84-D1A5FE7DAC62}.Debug|x86.Build.0 = Debug|Win32
+		{169BFC4C-72B1-4659-9B84-D1A5FE7DAC62}.Release|x86.ActiveCfg = Release|Win32
+		{169BFC4C-72B1-4659-9B84-D1A5FE7DAC62}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
